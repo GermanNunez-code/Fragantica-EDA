@@ -69,4 +69,5 @@ get_recommendations('Acqua Di Gio')
 **Germán** - *Data Analyst & Data Scientist*
 
 ---
-*Este proyecto forma parte de mi portfolio profesional en Data Science.*
+*Este proyecto forma parte de mi portfolio profesional en Data Analytics & Science.*
+
